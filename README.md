@@ -23,6 +23,12 @@ and I would love to try new projects in the future!
 
 -:video_game: I enjoy playing video games. I am currently playing the Legend of Zelda: Wind Waker
 
+### **Badges**
+
+I played [Discover Your Typography Superpower](https://game.fonts.adobe.com/). The superpower I got was [funky!](https://game.fonts.adobe.com/heroes/funky/):sunglasses:
+
+![funky-superpower-xs](https://user-images.githubusercontent.com/90207967/191644412-e51cdabb-5062-4e34-8f7a-4075650ac8db.png)
+
 ![April](https://user-images.githubusercontent.com/90207967/132249376-a8aa1949-e766-46ab-98dd-a2e801380390.jpg)
 ![Halo](https://user-images.githubusercontent.com/90207967/132249379-7f4f9313-c416-44aa-8d56-65b19f199bbd.jpg)
 ![Sunflowers](https://user-images.githubusercontent.com/90207967/188323935-8fba306e-c7dd-4a02-a1a0-a0bdbce8c9d7.jpg)
